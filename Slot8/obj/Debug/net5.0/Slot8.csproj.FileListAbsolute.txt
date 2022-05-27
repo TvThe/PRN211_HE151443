@@ -1,0 +1,16 @@
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\Slot8.csproj.AssemblyReference.cache
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\Slot8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\Slot8.AssemblyInfoInputs.cache
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\Slot8.AssemblyInfo.cs
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\Slot8.csproj.CoreCompileInputs.cache
+C:\Users\LENNOVO\source\repos\Slot8\bin\Debug\net5.0\Slot8.exe
+C:\Users\LENNOVO\source\repos\Slot8\bin\Debug\net5.0\Slot8.deps.json
+C:\Users\LENNOVO\source\repos\Slot8\bin\Debug\net5.0\Slot8.runtimeconfig.json
+C:\Users\LENNOVO\source\repos\Slot8\bin\Debug\net5.0\Slot8.runtimeconfig.dev.json
+C:\Users\LENNOVO\source\repos\Slot8\bin\Debug\net5.0\Slot8.dll
+C:\Users\LENNOVO\source\repos\Slot8\bin\Debug\net5.0\ref\Slot8.dll
+C:\Users\LENNOVO\source\repos\Slot8\bin\Debug\net5.0\Slot8.pdb
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\Slot8.dll
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\ref\Slot8.dll
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\Slot8.pdb
+C:\Users\LENNOVO\source\repos\Slot8\obj\Debug\net5.0\Slot8.genruntimeconfig.cache
