@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\bin\Debug\net5.0\Slot 6 _Generic Classes.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\bin\Debug\net5.0\Slot 6 _Generic Classes.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\bin\Debug\net5.0\Slot 6 _Generic Classes.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\bin\Debug\net5.0\Slot 6 _Generic Classes.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\bin\Debug\net5.0\Slot 6 _Generic Classes.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\bin\Debug\net5.0\ref\Slot 6 _Generic Classes.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\bin\Debug\net5.0\Slot 6 _Generic Classes.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\obj\Debug\net5.0\Slot 6 _Generic Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\obj\Debug\net5.0\Slot 6 _Generic Classes.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\obj\Debug\net5.0\Slot 6 _Generic Classes.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\obj\Debug\net5.0\Slot 6 _Generic Classes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\obj\Debug\net5.0\Slot 6 _Generic Classes.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\obj\Debug\net5.0\ref\Slot 6 _Generic Classes.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\obj\Debug\net5.0\Slot 6 _Generic Classes.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6 _Generic Classes\Slot 6 _Generic Classes\obj\Debug\net5.0\Slot 6 _Generic Classes.genruntimeconfig.cache

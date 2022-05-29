@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\bin\Debug\net5.0\Slot 6_Generic Interfaces.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\bin\Debug\net5.0\Slot 6_Generic Interfaces.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\bin\Debug\net5.0\Slot 6_Generic Interfaces.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\bin\Debug\net5.0\Slot 6_Generic Interfaces.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\bin\Debug\net5.0\Slot 6_Generic Interfaces.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\bin\Debug\net5.0\ref\Slot 6_Generic Interfaces.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\bin\Debug\net5.0\Slot 6_Generic Interfaces.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\Slot 6_Generic Interfaces.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\Slot 6_Generic Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\Slot 6_Generic Interfaces.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\Slot 6_Generic Interfaces.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\Slot 6_Generic Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\Slot 6_Generic Interfaces.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\ref\Slot 6_Generic Interfaces.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\Slot 6_Generic Interfaces.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Interfaces\Slot 6_Generic Interfaces\obj\Debug\net5.0\Slot 6_Generic Interfaces.genruntimeconfig.cache

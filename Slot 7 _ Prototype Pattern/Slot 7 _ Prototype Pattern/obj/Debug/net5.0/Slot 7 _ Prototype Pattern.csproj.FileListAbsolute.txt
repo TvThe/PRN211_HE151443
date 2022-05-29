@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\bin\Debug\net5.0\Slot 7 _ Prototype Pattern.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\bin\Debug\net5.0\Slot 7 _ Prototype Pattern.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\bin\Debug\net5.0\Slot 7 _ Prototype Pattern.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\bin\Debug\net5.0\Slot 7 _ Prototype Pattern.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\bin\Debug\net5.0\Slot 7 _ Prototype Pattern.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\bin\Debug\net5.0\ref\Slot 7 _ Prototype Pattern.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\bin\Debug\net5.0\Slot 7 _ Prototype Pattern.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\obj\Debug\net5.0\Slot 7 _ Prototype Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\obj\Debug\net5.0\Slot 7 _ Prototype Pattern.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\obj\Debug\net5.0\Slot 7 _ Prototype Pattern.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\obj\Debug\net5.0\Slot 7 _ Prototype Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\obj\Debug\net5.0\Slot 7 _ Prototype Pattern.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\obj\Debug\net5.0\ref\Slot 7 _ Prototype Pattern.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\obj\Debug\net5.0\Slot 7 _ Prototype Pattern.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Prototype Pattern\Slot 7 _ Prototype Pattern\obj\Debug\net5.0\Slot 7 _ Prototype Pattern.genruntimeconfig.cache

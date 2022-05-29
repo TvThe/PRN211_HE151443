@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\bin\Debug\net5.0\Slot 7 _ Factories Method.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\bin\Debug\net5.0\Slot 7 _ Factories Method.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\bin\Debug\net5.0\Slot 7 _ Factories Method.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\bin\Debug\net5.0\Slot 7 _ Factories Method.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\bin\Debug\net5.0\Slot 7 _ Factories Method.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\bin\Debug\net5.0\ref\Slot 7 _ Factories Method.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\bin\Debug\net5.0\Slot 7 _ Factories Method.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\Slot 7 _ Factories Method.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\Slot 7 _ Factories Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\Slot 7 _ Factories Method.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\Slot 7 _ Factories Method.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\Slot 7 _ Factories Method.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\Slot 7 _ Factories Method.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\ref\Slot 7 _ Factories Method.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\Slot 7 _ Factories Method.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 7 _ Factories Method\Slot 7 _ Factories Method\obj\Debug\net5.0\Slot 7 _ Factories Method.genruntimeconfig.cache

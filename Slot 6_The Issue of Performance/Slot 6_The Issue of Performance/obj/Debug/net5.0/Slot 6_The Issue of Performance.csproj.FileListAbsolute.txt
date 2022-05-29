@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\Slot 6_The Issue of Performance.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\Slot 6_The Issue of Performance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\Slot 6_The Issue of Performance.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\Slot 6_The Issue of Performance.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\Slot 6_The Issue of Performance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\bin\Debug\net5.0\Slot 6_The Issue of Performance.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\bin\Debug\net5.0\Slot 6_The Issue of Performance.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\bin\Debug\net5.0\Slot 6_The Issue of Performance.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\bin\Debug\net5.0\Slot 6_The Issue of Performance.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\bin\Debug\net5.0\Slot 6_The Issue of Performance.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\bin\Debug\net5.0\ref\Slot 6_The Issue of Performance.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\bin\Debug\net5.0\Slot 6_The Issue of Performance.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\Slot 6_The Issue of Performance.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\ref\Slot 6_The Issue of Performance.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\Slot 6_The Issue of Performance.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_The Issue of Performance\Slot 6_The Issue of Performance\obj\Debug\net5.0\Slot 6_The Issue of Performance.genruntimeconfig.cache

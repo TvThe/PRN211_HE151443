@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\bin\Debug\net5.0\Slot 6_Generic Methods.exe
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\bin\Debug\net5.0\Slot 6_Generic Methods.deps.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\bin\Debug\net5.0\Slot 6_Generic Methods.runtimeconfig.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\bin\Debug\net5.0\Slot 6_Generic Methods.runtimeconfig.dev.json
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\bin\Debug\net5.0\Slot 6_Generic Methods.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\bin\Debug\net5.0\ref\Slot 6_Generic Methods.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\bin\Debug\net5.0\Slot 6_Generic Methods.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\obj\Debug\net5.0\Slot 6_Generic Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\obj\Debug\net5.0\Slot 6_Generic Methods.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\obj\Debug\net5.0\Slot 6_Generic Methods.AssemblyInfo.cs
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\obj\Debug\net5.0\Slot 6_Generic Methods.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\obj\Debug\net5.0\Slot 6_Generic Methods.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\obj\Debug\net5.0\ref\Slot 6_Generic Methods.dll
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\obj\Debug\net5.0\Slot 6_Generic Methods.pdb
+C:\Users\Admin\Documents\PRN211_HE151190\Slot 6_Generic Methods\Slot 6_Generic Methods\obj\Debug\net5.0\Slot 6_Generic Methods.genruntimeconfig.cache

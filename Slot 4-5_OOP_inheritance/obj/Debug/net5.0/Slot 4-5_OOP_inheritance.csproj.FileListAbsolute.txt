@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\bin\Debug\net5.0\Slot 4-5_OOP_inheritance.exe
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\bin\Debug\net5.0\Slot 4-5_OOP_inheritance.deps.json
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\bin\Debug\net5.0\Slot 4-5_OOP_inheritance.runtimeconfig.json
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\bin\Debug\net5.0\Slot 4-5_OOP_inheritance.runtimeconfig.dev.json
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\bin\Debug\net5.0\Slot 4-5_OOP_inheritance.dll
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\bin\Debug\net5.0\Slot 4-5_OOP_inheritance.pdb
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\Slot 4-5_OOP_inheritance.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\Slot 4-5_OOP_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\Slot 4-5_OOP_inheritance.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\Slot 4-5_OOP_inheritance.AssemblyInfo.cs
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\Slot 4-5_OOP_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\Slot 4-5_OOP_inheritance.dll
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\refint\Slot 4-5_OOP_inheritance.dll
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\Slot 4-5_OOP_inheritance.pdb
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\Slot 4-5_OOP_inheritance.genruntimeconfig.cache
+C:\Users\Admin\Documents\C#\Slot 4-5_OOP_inheritance\obj\Debug\net5.0\ref\Slot 4-5_OOP_inheritance.dll
