@@ -1,0 +1,16 @@
+C:\Users\LENNOVO\source\repos\Slot11\bin\Debug\net5.0\Slot11.exe
+C:\Users\LENNOVO\source\repos\Slot11\bin\Debug\net5.0\Slot11.deps.json
+C:\Users\LENNOVO\source\repos\Slot11\bin\Debug\net5.0\Slot11.runtimeconfig.json
+C:\Users\LENNOVO\source\repos\Slot11\bin\Debug\net5.0\Slot11.runtimeconfig.dev.json
+C:\Users\LENNOVO\source\repos\Slot11\bin\Debug\net5.0\Slot11.dll
+C:\Users\LENNOVO\source\repos\Slot11\bin\Debug\net5.0\ref\Slot11.dll
+C:\Users\LENNOVO\source\repos\Slot11\bin\Debug\net5.0\Slot11.pdb
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\Slot11.csproj.AssemblyReference.cache
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\Slot11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\Slot11.AssemblyInfoInputs.cache
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\Slot11.AssemblyInfo.cs
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\Slot11.csproj.CoreCompileInputs.cache
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\Slot11.dll
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\ref\Slot11.dll
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\Slot11.pdb
+C:\Users\LENNOVO\source\repos\Slot11\obj\Debug\net5.0\Slot11.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\FileInfo.csproj.AssemblyReference.cache
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\FileInfo.AssemblyInfoInputs.cache
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\FileInfo.AssemblyInfo.cs
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\FileInfo.csproj.CoreCompileInputs.cache
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\bin\Debug\net5.0\FileInfo.exe
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\bin\Debug\net5.0\FileInfo.deps.json
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\bin\Debug\net5.0\FileInfo.runtimeconfig.json
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\bin\Debug\net5.0\FileInfo.runtimeconfig.dev.json
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\bin\Debug\net5.0\FileInfo.dll
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\bin\Debug\net5.0\ref\FileInfo.dll
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\bin\Debug\net5.0\FileInfo.pdb
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\FileInfo.dll
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\ref\FileInfo.dll
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\FileInfo.pdb
+C:\Users\LENNOVO\source\repos\Slot12\Slot12\DemoFileInfo\FileInfo\obj\Debug\net5.0\FileInfo.genruntimeconfig.cache

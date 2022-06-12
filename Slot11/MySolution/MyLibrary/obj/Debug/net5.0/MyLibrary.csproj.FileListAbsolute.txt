@@ -1,0 +1,12 @@
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\bin\Debug\net5.0\MyLibrary.deps.json
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\bin\Debug\net5.0\MyLibrary.dll
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\bin\Debug\net5.0\ref\MyLibrary.dll
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\bin\Debug\net5.0\MyLibrary.pdb
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfo.cs
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.dll
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\obj\Debug\net5.0\ref\MyLibrary.dll
+C:\Users\LENNOVO\source\repos\Slot11\MySolution\MyLibrary\obj\Debug\net5.0\MyLibrary.pdb
